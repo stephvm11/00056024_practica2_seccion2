@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  padding: 3px;
+}
+p {
+  margin-block: 1.5rem;
+}
+body {
+  font-family: monospace;
+}
+.container {
+  display: grid;
+  grid-template-columns: 4fr 1fr 4fr;
+}
+.container {
+  font-size: 23px;
+  text-align: justify;
+}
+img {
+  width: 200px;
+  height: 150px;
+}
